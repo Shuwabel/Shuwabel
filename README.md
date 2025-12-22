@@ -69,7 +69,7 @@ An education platform connecting students and educators for seamless learning ex
   <a href="https://github.com/Shuwabel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=9B59B6" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/feanyi-obioma-75532633b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=9B59B6" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/YOUR_TWITTER">

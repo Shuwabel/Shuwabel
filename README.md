@@ -54,15 +54,6 @@ An education platform connecting students and educators for seamless learning ex
 
 ---
 
-## 🟣 GitHub Stats
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Shuwabel&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats"/>
-</p>
-
----
-
-## 🟣 My GitHub Stats
-
 <p align="center">
   <!-- Main overall stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shuwabel&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" />
@@ -71,13 +62,7 @@ An education platform connecting students and educators for seamless learning ex
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shuwabel&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Example pinned projects (replicate for your own) -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shuwabel&repo=crowdfund-africa" alt="Crowdfund Africa" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shuwabel&repo=blockchain-validation" alt="Blockchain Validation" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shuwabel&repo=educonnect" alt="EduConnect" />
-</p>
-
+---
 
 ## 🟣 Connect with Me
 <p align="center">

@@ -1,7 +1,7 @@
 # Hi, I’m Shuwabel 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9B59B6&width=600&lines=Fullstack+Developer;Web+%26+Mobile+Apps;AI+%26+Data+Projects;Always+Learning+New+Tech" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9B59B6&width=600&lines=Full+stack+Developer;Web+%26+Mobile+Apps;AI+%26+Data+Projects;Always+Learning+New+Tech" alt="Typing animation"/>
 </p>
 
 I build **clean, responsive, and scalable software** and enjoy exploring new technologies to solve real-world problems.  

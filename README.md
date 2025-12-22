@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/your-banner.png" alt="Gradient Banner" width="100%" />
-</p>
-
 # Hi, I’m Shuwabel 👋
 
 <p align="center">

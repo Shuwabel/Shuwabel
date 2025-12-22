@@ -36,7 +36,7 @@ I build **clean, responsive, and scalable software** and enjoy exploring new tec
 ### [🚀 Crowdfund Africa](https://crowdfund-africa.vercel.app/)
 A web platform for managing and contributing to crowdfunding campaigns across Africa.  
 **Tech:** 
-![Next.js](https://img.shields.io/badge/Next.js-00FFAA?style=for-the-badge&logo=next.js&logoColor=000000&animation=glow) 
+![Next.js](https://img.shields.io/badge/Next.js-00FFAA?style=for-the-badge&logo=next.js&logoColor=black&animation=glow) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-66FFCC?style=for-the-badge&logo=tailwind-css&logoColor=000000&animation=glow)
 
 ### [🔗 Blockchain Validation](https://blockchain-validation.vercel.app/)

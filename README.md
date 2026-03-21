@@ -1,8 +1,6 @@
 <!-- Header section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070F3&height=250&section=header&text=Hi,%20I'm%20Shuwabel!&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Header" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0070F3&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Next.js+%26+React+Ecosystem;Mobile+Apps+with+Flutter;Blockchain+%26+Web3+Integrations;Building+Impactful+Products" alt="Typing animation"/>
 </div>
 
 ---
@@ -11,6 +9,7 @@
 I'm a passionate **Full-Stack Developer** focused on building clean, responsive, and scalable software. I love bridging the gap between elegant user interfaces and robust backend architectures. Whether I'm crafting modern e-commerce platforms, integrating blockchain for transparency, or experimenting with new deployments, my goal is always to build products that solve real-world problems.
 
 - 🏗️ **Currently building:** Advanced full-stack web applications.
+- 🤖 **Currently exploring:** Machine Learning, Artificial Intelligence, and integrating Large Language Models (LLMs) into modern applications.
 - 🔗 **Recent explorations:** Government budget transparency systems using Web3 and blockchain validation.
 - 🤝 **Open to:** Open-source collaborations, innovative startups, and building purely impactful products.
 

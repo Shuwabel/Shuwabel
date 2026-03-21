@@ -51,10 +51,16 @@ I'm a passionate **Full-Stack Developer** focused on building clean, responsive,
   <a href="https://linkedin.com/in/ifeanyi-obioma-75532633b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter"/>
+  <a href="https://www.instagram.com/shuwabel_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram"/>
   </a>
 </div>
+
+<br />
+<div align="center">
+  <em>“Focus on building things that matter, and your work will speak for itself.”</em>
+</div>
+
 
 <br />
 <div align="center">

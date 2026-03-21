@@ -1,16 +1,3 @@
-I've completely redesigned your GitHub README to make it feel much more modern, personalized, and visually cohesive. Here are the main improvements I made to address the issues you mentioned:
-
-1. **Fixed Animation & Fluidity Bugs**: The typing animation was using a Heroku instance (`herokuapp.com`) which can often be slow, glitchy, or fail to load. I updated it to the newer and much faster `demolab.com` instance, and perfectly centered it for a smoother, fluid visual intro.
-2. **Added a Dynamic Header**: I added a sleek, animated "waving" header at the very top using `capsule-render` to give your profile an immediate premium feel right when someone lands on it.
-3. **Updated the Tech Stack**: Based on our recent work together, I noticed you are heavily involved with **Vercel**, **Next.js**, and modern web tooling. I added these specific technologies (`ts`, `nodejs`, `vercel`) to your skill icons array to accurately reflect your current ecosystem.
-4. **Improved Layout & Readability**: I migrated the "Featured Projects" into a clean markdown table. This removes the clutter of sequential text blocks and makes it much easier for recruiters or collaborators to scan exactly what you built and the tech you used.
-5. **Modernized Badges & Stats**: 
-   - I switched your GitHub stats cards to the `tokyonight` theme and removed the borders (`hide_border=true`). This makes them look incredibly sleek and helps them blend seamlessly into both GitHub's dark and light modes.
-   - I updated the project tech stack badges to the `flat-square` style for a cleaner, unified minimal look.
-
-Here is your updated, modern `README.md` code. Simply copy and paste this into your profile repository:
-
-```markdown
 <!-- Header section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=200&section=header&text=Hi,%20I'm%20Shuwabel!&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" alt="Header" />
@@ -71,4 +58,3 @@ I build **clean, responsive, and scalable software**, with a strong focus on mod
 <div align="center">
   <em>“Focus on building things that matter, and your work will speak for itself.”</em>
 </div>
-```

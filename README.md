@@ -10,8 +10,7 @@
 ### 🚀 About Me
 I'm a passionate **Full-Stack Developer** focused on building clean, responsive, and scalable software. I love bridging the gap between elegant user interfaces and robust backend architectures. Whether I'm crafting modern e-commerce platforms, integrating blockchain for transparency, or experimenting with new deployments, my goal is always to build products that solve real-world problems.
 
-- 🏗️ **Currently building:** Advanced full-stack web applications with **Next.js**, **React**, and **Vercel** (including modern brand platforms like Ancientika).
-- ⚡ **Currently focused on:** Advanced cloud deployments, exploring the **Model Context Protocol (MCP)**, and building highly optimized architectures.
+- 🏗️ **Currently building:** Advanced full-stack web applications.
 - 🔗 **Recent explorations:** Government budget transparency systems using Web3 and blockchain validation.
 - 🤝 **Open to:** Open-source collaborations, innovative startups, and building purely impactful products.
 

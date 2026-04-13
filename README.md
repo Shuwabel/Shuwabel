@@ -29,16 +29,6 @@ I'm a passionate **Full-Stack Developer** focused on building clean, responsive,
 
 ---
 
-### 📂 Featured Projects
-
-| 🚀 Project | 📝 Description | 🎯 Sector | 🛠️ Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **[Crowdfund Africa](https://crowdfund-africa.vercel.app/)** | A centralized web platform for easily managing and contributing to verified crowdfunding campaigns across the African continent. | *Fintech / Social Impact* | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **[Blockchain Validation](https://blockchain-validation.vercel.app/)** | A government budget transparency system integrated with blockchain to track and verify spending with complete traceability. | *Governance / Web3* | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white) |
-| **[EduConnect](https://github.com/godsfavourakpan/educonnect)** | A comprehensive education workflow platform seamlessly connecting students and educators for optimized learning experiences. | *EdTech* | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-
----
-
 ### 📫 Let's Connect
 <div align="center">
   <p>Whether you have a project idea, want to talk tech, or just say hi, my inbox is always open!</p>

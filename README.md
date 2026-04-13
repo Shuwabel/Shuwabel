@@ -46,11 +46,5 @@ I'm a passionate **Full-Stack Developer** focused on building clean, responsive,
 
 <br />
 <div align="center">
-  <em>“Focus on building things that matter, and your work will speak for itself.”</em>
-</div>
-
-
-<br />
-<div align="center">
-  <em>“Focus on building things that matter, and your work will speak for itself.”</em>
+  <em>“Focused on building things that matter.”</em>
 </div>

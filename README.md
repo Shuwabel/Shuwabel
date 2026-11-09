@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://ifeanyi-obioma.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-ifeanyi--obioma.vercel.app-FF4A1C?style=for-the-badge&labelColor=0E0D0C"></a>
   <a href="https://www.linkedin.com/in/ifeanyi-obioma-75532633b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-ifeanyi%20obioma-F4EFE6?style=for-the-badge&labelColor=0E0D0C&logo=linkedin&logoColor=F4EFE6"></a>
-  <a href="mailto:shuwabel@outlook.com"><img alt="Email" src="https://img.shields.io/badge/email-shuwabel@outlook.com-C6F432?style=for-the-badge&labelColor=0E0D0C"></a>
+  <a href="mailto:shuwabel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-shuwabel@gmail.com-C6F432?style=for-the-badge&labelColor=0E0D0C"></a>
 </p>
 
 ```ts
@@ -19,7 +19,7 @@ const ifeanyi = {
   writes: ["TypeScript", "JavaScript", "Python", "Dart", "SQL"],
   ships: ["web apps", "mobile apps", "landing pages that move"],
   learning: "AI and machine learning (TerraSkills certificate, 2026)",
-  hire: "shuwabel@outlook.com",
+  hire: "shuwabel@gmail.com",
 };
 ```
 
@@ -87,9 +87,9 @@ An editorial scroll landing page for a menswear label: kinetic cover, a manifest
 <a href="https://blockchain-validation-bay.vercel.app"><img src="assets/card-budget.svg" alt="Budget Transparency live site"></a>
 
 ### Budget Transparency
-Public spending, on the record. Portals for officials, contractors and citizens, with Solidity contracts written to log each disbursement on chain.
+See where every naira of a (fictional) state budget went. Allocations, contractor payments and spending reports go into a hash-chained ledger, and a tamper check shows the chain breaking the moment an old entry is edited.
 
-`Next.js` `Supabase` `Solidity` `ethers.js` `Recharts`
+`Next.js 16` `React 19` `Tailwind 4` `Recharts` `Web Crypto` `Vitest`
 
 [**Open it ↗**](https://blockchain-validation-bay.vercel.app) · [Code](https://github.com/Shuwabel/blockchain-validation)
 </td>
@@ -120,7 +120,7 @@ A no-code page maker for birthdays, invitations and Girlfriend's Day. Six templa
 <p align="center">
   <img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css&theme=dark" /><br/>
   <img alt="Frameworks" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,vite&theme=dark" /><br/>
-  <img alt="Data and tooling" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,solidity,vitest,docker&theme=dark" /><br/>
+  <img alt="Data and tooling" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,vitest,docker&theme=dark" /><br/>
   <img alt="Shipping" src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman,figma&theme=dark" />
 </p>
 
@@ -132,5 +132,5 @@ A no-code page maker for birthdays, invitations and Girlfriend's Day. Six templa
 </picture>
 
 <p align="center">
-  <a href="mailto:shuwabel@outlook.com?subject=Let%27s%20build%20something"><b>Got something to build? Hire me ↗</b></a>
+  <a href="mailto:shuwabel@gmail.com?subject=Let%27s%20build%20something"><b>Got something to build? Hire me ↗</b></a>
 </p>

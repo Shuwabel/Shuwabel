@@ -23,7 +23,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark&color_snake=#C6F432&color_dots=#1E1B18,#5A1C0C,#9E2E10,#D93A14,#FF4A1C
       - name: Publish to the output branch
         run: |
-          cd dist
+          mkdir -p ../snake-out && cp dist/*.svg ../snake-out/ && cd ../snake-out
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
